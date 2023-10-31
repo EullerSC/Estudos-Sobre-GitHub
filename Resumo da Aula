@@ -1,0 +1,8 @@
+PUll - Puxa tudo que está numa branch do git.
+PUSH - Envia os dados para o remoto.
+MERGE - Junta os dados do remoto e local.
+COMMIT - comenta o push que está enviando para o remoto.
+HOTFIX - Atualização rápida de uma branch para reparar um bug.
+REVERT - Reverte o último commit feito na branch.
+PUSH --FORCE - Força o push para fazer a atualização numa branch.
+GIT RESET HARD - Volta para a última atualização feita através do código hash.
