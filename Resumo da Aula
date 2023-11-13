@@ -6,3 +6,6 @@ HOTFIX - Atualização rápida de uma branch para reparar um bug.
 REVERT - Reverte o último commit feito na branch.
 PUSH --FORCE - Força o push para fazer a atualização numa branch.
 GIT RESET HARD - Volta para a última atualização feita através do código hash.
+GIT ADD . - Adiciona arquivos que não estão na branch.
+GIT STATUS - Verifica o status dos seus arquivos locais com os remotos para ver se falta adicionar algum arquivo.
+GIT INIT - Inicia comunicação do seu repositório local com o remoto.
