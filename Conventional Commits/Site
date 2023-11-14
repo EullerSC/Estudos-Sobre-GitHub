@@ -1,2 +1,5 @@
 Site para conventional commits
 https://platform.uno/docs/articles/uno-development/git-conventional-commits.html
+
+
+Para usar os arquivos conventional commits baixar os dois arquivos no diretório local e executar o comando no terminal git "bash setup"
